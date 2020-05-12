@@ -11,3 +11,5 @@ Move through the space to identify 11 individuals, perform START triage and assi
 ## Authors
 * Scenario Write - Melissa Fisher
 * Unity Developer - Jiayi Xu
+## License
+Umass Medical School

@@ -9,7 +9,7 @@ Move through the space to identify 11 individuals, perform START triage and assi
 * [itch.io](https://xujiayi.itch.io/disaster-training) - play with itch.io
 * [heroku](https://umassmedical.herokuapp.com/) - play with heroku
 ## Authors
-* Scenario Write - Melissa Fisher
+* Scenario Writer - Melissa Fisher
 * Unity Developer - Jiayi Xu
 ## License
 Umass Medical School

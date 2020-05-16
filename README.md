@@ -8,6 +8,10 @@ Move through the space to identify 11 individuals, perform START triage and assi
 ## Deployment
 * [itch.io](https://xujiayi.itch.io/disaster-training) - play with itch.io
 * [heroku](https://umassmedical.herokuapp.com/) - play with heroku
+## Screenshots
+![alt text](https://github.com/karima931212/WebVRDisaster/blob/master/Screenshots/Screen%20Shot%202020-05-16%20at%202.04.45%20PM.png?raw=true)
+![alt text](https://github.com/karima931212/WebVRDisaster/blob/master/Screenshots/Screen%20Shot%202020-05-16%20at%202.05.18%20PM.png?raw=true)
+![alt text](https://github.com/karima931212/WebVRDisaster/blob/master/Screenshots/Screen%20Shot%202020-05-16%20at%202.05.36%20PM.png?raw=true)
 ## Authors
 * Scenario Writer - Melissa Fisher
 * Unity Developer - Jiayi Xu
